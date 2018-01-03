@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ben's test thing
+title: Home
 ---
 
 Hi
