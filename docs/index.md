@@ -20,4 +20,4 @@ Picture of a cat in `docs/`
 
 Picture of a cat in `~/img/` ![](img/cats_in_docs.png)
 
-Link to [](sub/page_in_sub.md) in subfolder 
+Link to [page](sub/page_in_sub.md) in subfolder
