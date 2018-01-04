@@ -10,3 +10,10 @@ I am a [link](random_md_file.md) to a .md file/page
 - [Info 1](info1.md)
 - [Info 2](info2.md)
 - [Info 3](info3.md)
+
+
+Picture of a cat in root dir
+![](../cats_in_root.png)
+
+Picture of a cat in `docs/`
+![](cats_in_docs.png)
