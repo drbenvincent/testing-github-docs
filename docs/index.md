@@ -17,3 +17,5 @@ Picture of a cat in root dir
 
 Picture of a cat in `docs/`
 ![](cats_in_docs.png)
+
+Picture of a cat in `~/img/` ![](img/cats_in_docs.png)
