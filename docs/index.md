@@ -21,3 +21,8 @@ Picture of a cat in `docs/`
 Picture of a cat in `~/img/` ![](img/cats_in_docs.png)
 
 Link to [page](sub/page_in_sub.md) in subfolder
+
+
+Below is an attempt to embed a YouTube video in GitHub pages
+
+https://www.youtube.com/watch?v=vSjL2Zc-gEQ
