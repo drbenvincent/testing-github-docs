@@ -25,4 +25,4 @@ Link to [page](sub/page_in_sub.md) in subfolder
 
 Below is an attempt to embed a YouTube video in GitHub pages
 
-https://www.youtube.com/watch?v=vSjL2Zc-gEQ
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vSjL2Zc-gEQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
